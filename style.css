@@ -1,0 +1,80 @@
+body {
+    background-image: 
+url(Asset-2.gif);
+    background-repeat: 
+no-repeat;
+    background-size: auto;
+    font-family: helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: blue;
+}
+a:visited{
+    color: dimgrey;
+}
+#small {
+    background-color: #fffc00;
+    padding: 0.22%;
+    margin: auto;
+}
+.head {
+    background-color: white;
+    padding: 0.22%;
+    margin: auto;
+}
+a {
+    font-family: metropolis;
+    font-size: 20px;
+    color: white;
+    text-decoration: none
+    
+}
+.header-layout h1 {
+    font-family: Rhesmanisa;
+    font-size: 60px;
+    color: white;
+    text-align: left;
+    position: fixed;
+    top: 10%;
+}
+
+
+.menu {
+    float: right;
+    width: auto;
+    box-sizing: inherit;
+    padding: 10px;
+    
+}
+
+#menu {
+    position: fixed;
+    top: auto;
+    right: 50px;
+}
+
+
+
+
+#design p {
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    padding: 0.44%;
+    margin: auto;
+}
+#design {
+    align-items: center;
+    text-align: center;
+    padding: 0.44%;
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    width: 50%;
+    
+}
